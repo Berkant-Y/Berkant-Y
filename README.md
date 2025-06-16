@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Berkant-Y/Berkant-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Merhaba! 👋 Ben Berkant-Y
+* 👀 SwiftUI, Flutter ile ilgileniyorum.
+* 📫  Bana nasıl ulaşabilirsiniz berkantyurtsever41@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## İletişim
+- E-posta: berkantyurtsever41@gmail.com
+- GitHub: [github.com/Berkant-Y](https://github.com/Berkant-Y)
+
+
+
+
