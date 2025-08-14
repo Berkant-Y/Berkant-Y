@@ -2,7 +2,7 @@
 # Merhaba Ben Berkant Yurtsever
 ## Flutter Developer | İOS Developer Mobil Uygulama Geliştirme Tutkunu 🚀
 
-- 👨‍💻 Şu anda **SwiftUI** ile projeler geliştiriyorum.
+- 👨‍💻 Şu anda **SwiftUI ve Flutter** ile projeler geliştiriyorum.
 - 🌱 Aynı zamanda **SwiftUI** öğreniyorum.
 - 📫 Bana ulaşın: berkantyurtsever41@gmail.com
 
